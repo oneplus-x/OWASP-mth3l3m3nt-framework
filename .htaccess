@@ -6,6 +6,10 @@ Options -Indexes
 # containing this .htaccess file
 #
 #RewriteBase /
+RewriteBase /var/www/OWASP
+
+http://owasp.mth3l3m3ntframework.com
+http://owasp.mth3l3m3ntframework.com/cnc
 
 #Return 404 on important files. This will prove effective especially to scanners
 RewriteRule ^(tmp)\/|\.ini$ - [R=404]
