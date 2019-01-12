@@ -6,7 +6,7 @@ Options -Indexes
 # containing this .htaccess file
 #
 #RewriteBase /
-RewriteBase /var/www/OWASP
+RewriteBase /var/www/owasp.mth3l3m3ntframework
 
 http://owasp.mth3l3m3ntframework.com
 http://owasp.mth3l3m3ntframework.com/cnc
